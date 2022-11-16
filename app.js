@@ -39,4 +39,5 @@ async function getDataByTo() {
 }
 
 
-//something
+// new comment
+console.log(5);
